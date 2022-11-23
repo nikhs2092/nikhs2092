@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nicolas @nikhs2092
 - 👀 I’m interested in entering the Data Science world
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on any project looking for eager people to learn
+- 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me: nikhs2092@gmail.com
 
 <!---
